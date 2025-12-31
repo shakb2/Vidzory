@@ -1,0 +1,8 @@
+{
+  "name": "Vidzory",
+  "description": "A feature-rich short-form video social platform inspired by TikTok, featuring AI-powered video generation and a seamless vertical scroll experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
